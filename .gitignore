@@ -19,5 +19,4 @@ Desktop.ini
 Uploads/*
 Storage/*
 !Storage/Log
-# vendor
 composer.lock
