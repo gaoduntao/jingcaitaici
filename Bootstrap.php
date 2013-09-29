@@ -45,7 +45,7 @@ require(SP . 'vendor/autoload' . EXT);
 
 // Include common system functions
 require(SP . 'Common' . EXT);
-z
+
 \Micro\View::$directory = SP . 'View/';
 
 \Micro\Cookie::$settings = config()->cookie;
